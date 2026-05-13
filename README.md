@@ -6,6 +6,19 @@ This repository previously had the default Create React App README; it has now b
 
 ---
 
+## Project links and evidence
+
+| Item | Link / Note |
+|---|---|
+| Repository | https://github.com/Mrudula-itsjuzme/our-code |
+| Paper / reference | Frontend learning/practice project; no paper attached |
+| Demo video | Not uploaded yet |
+| Deployment | Add live demo link here after deployment |
+| Dataset note | No dataset required |
+| Result screenshots | Add UI screenshots, component screenshots, or short demo GIFs under `screenshots/` |
+
+---
+
 ## Project purpose
 
 This repository is a frontend practice space for building, testing, and refining React UI concepts.
